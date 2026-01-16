@@ -119,3 +119,28 @@ font-weight: 700px;
     background-color: #F7EBCF;
     border-radius: 16px;
   }
+  .arafat{
+    background-color: #09A15C;
+    border-radius: 8px;
+
+  }
+  .rahim{
+
+  }
+  .ahad{
+    background-image: url("../assets/quote-bg.png");
+    background-position: top left;
+    background-repeat: no-repeat;
+    /* padding: 25px 1192px 167px 24px; */
+  }
+  .soha{
+    font-size: 16px;
+    color: #0E0E0E;
+    /* margin: 80px 184px 0 184px ; */
+    padding: 112px 24px 41px 24px;
+  }
+  .abrity{
+    background-color: #FFFFFF;
+    margin: 0 160px ;
+    margin-top: 32px;
+  }
