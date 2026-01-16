@@ -1,0 +1,121 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.first{
+    display: flex;
+    /* align-content: space-between; */
+    /* margin: 10px; */
+ 
+    justify-content: space-between;
+    margin: 0px 100px 0 100px;
+    text-align: center;
+}
+.heading-title{
+  color: #0E0E0E ; 
+  font-size: 36px;
+  font-weight: bold;
+
+}
+ul li{
+    list-style: none;
+}
+.sign{
+    padding: 20px 10px;
+    color: #006A50;
+    font-size: 18px;
+    margin-top: 17px;
+    text-align: center;
+}
+.banner-title{
+font-size: 50px;
+font-weight: 700px;
+}
+.banner-greet{
+   color: #0E0E0E; 
+    font-size: 25px;
+    
+}
+.btn-primary{
+    font-size: 16px;
+    font-weight: 400x;
+    color: #FFFFFF;
+    background-color: #006A50;
+    padding: 17px 34px;
+    border-radius: 8px;
+    border: none;
+}
+.banner{
+    /* max-width: 1200px; */
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+     max-width: 1280px;
+       padding:115px 60px 115px 60px;
+       border-radius: 25px;
+       align-items: center;
+       margin: auto 100px;
+}
+
+.banner-content{
+   
+  }
+  .section-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin: 80px 160px 24px 160px;
+  }
+  .rifat{
+    font-size: 16px;
+    color: #0E0E0E;
+    margin: 24px 160px 32px 160px;
+  }
+  .skill-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-left: 32px;
+    margin-bottom: 12px;
+  }
+  .skill-description{
+    font-size: 16px;
+    color: #0E0E0E;
+    padding: 24px 32px 40px 32px;
+  }
+  .rimon{
+    font-size: 16px;
+    padding: 11px 20px;
+    color: #FFFFFF;
+    background-color: 5490F5;
+    border-radius: 8px;
+    border: none;
+    margin: 24px 0 32px 32px;
+    
+  }
+  .section-containat{
+    display: flex;
+    margin: 35px 160px;
+    gap: 24px;
+  }
+  .jakir{
+    margin-left: 32px;
+    margin-top: 24px;
+  }
+  .colum{
+    background-color: #5a80c2;
+    border-radius: 16px;
+  }
+  .green{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+  }
+  .modern{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+  }
